@@ -20,3 +20,15 @@ int main(){
         cout << "NO" << endl;
     }
 }
+
+// input
+// 2
+// 12 6 2
+// 1 1 1 1 1 7 
+// 12 6 2
+// 2 2 2 2 2 2
+// output
+// NO
+// YES
+
+// WA
